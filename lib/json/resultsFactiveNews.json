@@ -1,0 +1,284 @@
+{
+    "nodes": [
+        {
+            "name": "Continental",
+            "id": "Continental"
+        },
+        {
+            "name": "Eberspaecher",
+            "id": "Eberspaecher"
+        },
+        {
+            "name": "Freundenberg",
+            "id": "Freundenberg"
+        },
+        {
+            "name": "Gestamp Automocion",
+            "id": "Gestamp Automocion"
+        },
+        {
+            "name": "GKN",
+            "id": "GKN"
+        },
+        {
+            "name": "Grupo Antolin",
+            "id": "Grupo Antolin"
+        },
+        {
+            "name": "HELLA",
+            "id": "HELLA"
+        },
+        {
+            "name": "Honeywell International",
+            "id": "Honeywell International"
+        },
+        {
+            "name": "Knorr-Bremse",
+            "id": "Knorr-Bremse"
+        },
+        {
+            "name": "Magna International",
+            "id": "Magna International"
+        },
+        {
+            "name": "Mahle",
+            "id": "Mahle"
+        },
+        {
+            "name": "Mann+Hummel Gruppe",
+            "id": "Mann+Hummel Gruppe"
+        },
+        {
+            "name": "Rheinmetall Automotive",
+            "id": "Rheinmetall Automotive"
+        },
+        {
+            "name": "Robert Bosch",
+            "id": "Robert Bosch"
+        },
+        {
+            "name": "Valeo",
+            "id": "Valeo"
+        },
+        {
+            "name": "Webasto",
+            "id": "Webasto"
+        },
+        {
+            "name": "ZF Friedrichshafen AG",
+            "id": "ZF Friedrichshafen AG"
+        }
+    ],
+    "links": [
+        {
+            "value": 0.945203423500061,
+            "target": "Knorr-Bremse",
+            "source": "Continental"
+        },
+        {
+            "value": 0.9362058043479919,
+            "target": "Valeo",
+            "source": "Continental"
+        },
+        {
+            "value": 0.9535866379737854,
+            "target": "Webasto",
+            "source": "Eberspaecher"
+        },
+        {
+            "value": 0.9392874240875244,
+            "target": "Valeo",
+            "source": "Eberspaecher"
+        },
+        {
+            "value": 0.9259440302848816,
+            "target": "Freundenberg",
+            "source": "Eberspaecher"
+        },
+        {
+            "value": 0.9655904173851013,
+            "target": "Robert Bosch",
+            "source": "Freundenberg"
+        },
+        {
+            "value": 0.9639210104942322,
+            "target": "Valeo",
+            "source": "Freundenberg"
+        },
+        {
+            "value": 0.9639210104942322,
+            "target": "Valeo",
+            "source": "Gestamp Automocion"
+        },
+        {
+            "value": 0.9685330390930176,
+            "target": "Valeo",
+            "source": "Grupo Antolin"
+        },
+        {
+            "value": 0.9596269130706787,
+            "target": "Valeo",
+            "source": "HELLA"
+        },
+        {
+            "value": 0.9448055624961853,
+            "target": "Knorr-Bremse",
+            "source": "HELLA"
+        },
+        {
+            "value": 0.9426450729370117,
+            "target": "Grupo Antolin",
+            "source": "HELLA"
+        },
+        {
+            "value": 0.9479547739028931,
+            "target": "Knorr-Bremse",
+            "source": "Honeywell International"
+        },
+        {
+            "value": 0.9677793383598328,
+            "target": "Valeo",
+            "source": "Knorr-Bremse"
+        },
+        {
+            "value": 0.9656762480735779,
+            "target": "Valeo",
+            "source": "Magna International"
+        },
+        {
+            "value": 0.9444080591201782,
+            "target": "Robert Bosch",
+            "source": "Magna International"
+        },
+        {
+            "value": 0.7943708300590515,
+            "target": "GKN",
+            "source": "Mahle"
+        },
+        {
+            "value": 0.7768892049789429,
+            "target": "Mann+Hummel Gruppe",
+            "source": "Mahle"
+        },
+        {
+            "value": 0.7723174691200256,
+            "target": "Robert Bosch",
+            "source": "Mahle"
+        },
+        {
+            "value": 0.929934561252594,
+            "target": "Freundenberg",
+            "source": "Mann+Hummel Gruppe"
+        },
+        {
+            "value": 0.929934561252594,
+            "target": "Gestamp Automocion",
+            "source": "Mann+Hummel Gruppe"
+        },
+        {
+            "value": 0.9284148216247559,
+            "target": "Valeo",
+            "source": "Mann+Hummel Gruppe"
+        },
+        {
+            "value": 0.882463276386261,
+            "target": "Magna International",
+            "source": "Rheinmetall Automotive"
+        },
+        {
+            "value": 0.8765866160392761,
+            "target": "Valeo",
+            "source": "Rheinmetall Automotive"
+        },
+        {
+            "value": 0.8738997578620911,
+            "target": "Freundenberg",
+            "source": "Rheinmetall Automotive"
+        },
+        {
+            "value": 0.9655904173851013,
+            "target": "Freundenberg",
+            "source": "Robert Bosch"
+        },
+        {
+            "value": 0.9685330390930176,
+            "target": "Grupo Antolin",
+            "source": "Valeo"
+        },
+        {
+            "value": 0.9618479013442993,
+            "target": "Freundenberg",
+            "source": "Webasto"
+        },
+        {
+            "value": 0.9618479013442993,
+            "target": "Gestamp Automocion",
+            "source": "Webasto"
+        },
+        {
+            "value": 0.9610069394111633,
+            "target": "Robert Bosch",
+            "source": "Webasto"
+        },
+        {
+            "value": 0.9672625064849854,
+            "target": "Knorr-Bremse",
+            "source": "ZF Friedrichshafen AG"
+        },
+        {
+            "value": 0.9594113230705261,
+            "target": "GKN",
+            "source": "ZF Friedrichshafen AG"
+        },
+        {
+            "value": 0.9515349864959717,
+            "target": "Grupo Antolin",
+            "source": "ZF Friedrichshafen AG"
+        },
+        {
+            "value": 0.941753625869751,
+            "target": "Honeywell International",
+            "source": "Continental"
+        },
+        {
+            "value": 1.0,
+            "target": "Gestamp Automocion",
+            "source": "Freundenberg"
+        },
+        {
+            "value": 0.9655904173851013,
+            "target": "Robert Bosch",
+            "source": "Gestamp Automocion"
+        },
+        {
+            "value": 0.9817299842834473,
+            "target": "Grupo Antolin",
+            "source": "GKN"
+        },
+        {
+            "value": 0.9673067927360535,
+            "target": "Knorr-Bremse",
+            "source": "GKN"
+        },
+        {
+            "value": 0.9674333333969116,
+            "target": "Knorr-Bremse",
+            "source": "Grupo Antolin"
+        },
+        {
+            "value": 0.9468535780906677,
+            "target": "Magna International",
+            "source": "Honeywell International"
+        },
+        {
+            "value": 0.9751729369163513,
+            "target": "Valeo",
+            "source": "Robert Bosch"
+        },
+        {
+            "value": 0.9705802798271179,
+            "target": "GKN",
+            "source": "Valeo"
+        }
+    ]
+}
